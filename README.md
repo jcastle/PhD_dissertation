@@ -2,6 +2,6 @@ This repository provides a public location for storing and sharing my dissertati
 
 This repository currently includes:
 1. [Dissertation](Castle_JR_D_2020.pdf)
-2. [Resume](Resume-3.30.2021-GitHub.pdf)
+2. [Resume](Resume_jcastle.pdf)
 
 Inquiries may be sent to josephrcastle@gmail.com.
